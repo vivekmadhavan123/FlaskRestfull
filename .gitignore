@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+instance/
+
+# Environment variables
+.env
+
+
+# Compiled Python files
+*.pyc
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Log files
+*.log
+
+# Database
+db.sqlite3
+*.db
+
+# Static files
+/static/
+.DS_Store
+
+# Compiled files
+*.pyc
+
+# Package directories
+*.egg-info/
+
+#Virtual Environements
+env/
+venv/
